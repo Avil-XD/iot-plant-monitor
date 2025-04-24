@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Plant Monitor Banner](https://user-images.githubusercontent.com/YourUserID/iot-plant-monitor/main/docs/banner.png)
-
 [![PlatformIO](https://img.shields.io/badge/PlatformIO-IDE-orange?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDI2LjkyNSAyNi45MjUiPjxwYXRoIGQ9Ik0xMy40NjIgMEMxOS44OCAwIDI1LjA5IDUuMjEgMjUuMDkgMTEuNjI4YzAgNC44NC0yLjk3IDguOTgtNy4yIDEwLjczdi0yLjk3YzIuOTctMS4zNCA1LjA2LTQuMzEgNS4wNi03Ljc2IDAtNC43MS0zLjgyLTguNTMtOC41My04LjUzcy04LjUzIDMuODItOC41MyA4LjUzYzAgMy40NSAyLjA5IDYuNDIgNS4wNiA3Ljc2djIuOTdjLTQuMjMtMS43NS03LjItNS44OS03LjItMTAuNzNDMS44MzUgNS4yMSA3LjA0NSAwIDEzLjQ2MiAwaiBtMCAxNi4zOWMtMi42MSAwLTQuNzYtMi4xNS00Ljc2LTQuNzZzMi4xNS00Ljc2IDQuNzYtNC43NiA0Ljc2IDIuMTUgNC43NiA0Ljc2LTIuMTUgNC43Ni00Ljc2IDQuNzZ6IiBmaWxsPSIjZmZmIi8+PC9zdmc+)](https://platformio.org/)
 [![ESP8266](https://img.shields.io/badge/ESP8266-IoT-blue?logo=espressif&logoColor=white)](https://www.espressif.com/)
 [![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-AI-orange?logo=tensorflow)](https://www.tensorflow.org/lite)
